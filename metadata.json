@@ -1,0 +1,5 @@
+{
+  "name": "AI Crypto Trading Bot",
+  "description": "A mobile-first, dark-themed crypto trading and AI bot interface with multiple screens including Home, Trade, Intel, Risk, and Security.",
+  "requestFramePermissions": []
+}
